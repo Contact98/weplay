@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.500277mm"
+   height="8.0482721mm"
+   viewBox="0 0 47.835626 28.5175"
+   id="svg13311"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-colleges.svg">
+  <defs
+     id="defs13313">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath840">
+      <path
+         d="m 464.0569,1309.531 0,10.745 0.9447,0.322 -0.9447,0.318 -0.3726,0.126 -17.6818,5.958 -19.0025,-6.402 6.9975,-2.359 0,-0.01 0.7115,-0.234 1.6276,-0.562 0,0 9.7977,-3.095 9.7023,3.139 0,-0.01 2.1537,0.731 -0.007,0.024 5.1827,1.746 0,-10.294 -1.4109,-2.55 1.8104,-2.938 1.703,2.952 -1.2116,2.383 z m -0.494,-3.558 -0.6846,1.307 0.6534,1.371 0.7012,-1.385 -0.67,-1.293 z m -17.4928,7.062 0.0642,-0.02 8.9717,2.901 0.4602,-1.868 c 0.0303,-0.156 0.0607,-0.272 0.0815,-0.363 0.0372,-0.156 0.0606,-0.26 0.0606,-0.376 0,-1.557 -7.715,-5.585 -9.9562,-5.585 -2.1736,0 -9.1954,3.987 -9.1954,5.585 0,0.169 0.0512,0.339 0.1491,0.505 l 0.4671,2.031 8.8972,-2.81 z"
+         id="path842"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath846">
+      <path
+         d="m 0,0 1280,0 0,5616 L 0,5616 0,0 Z"
+         id="path848"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.85722656"
+     inkscape:cx="27.370762"
+     inkscape:cy="64.137995"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13316">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-125.40094,-567.9827)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-408.34906,2226.7327)"
+       id="g836">
+      <g
+         id="g838"
+         clip-path="url(#clipPath840)">
+        <g
+           id="g844"
+           clip-path="url(#clipPath846)">
+          <path
+             d="m 422,1299.196 48.26853,0 0,32.8037 -48.26853,0 0,-32.8037 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path850"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

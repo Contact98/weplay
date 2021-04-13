@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.583333mm"
+   height="10.583245mm"
+   viewBox="0 0 37.499999 37.499688"
+   id="svg11489"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-governing-bodies.svg">
+  <defs
+     id="defs11491">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath992">
+      <path
+         d="m 710.0682,1678.273 c -0.7551,0 -1.3625,-0.61 -1.3625,-1.362 0,-0.755 0.6074,-1.366 1.3625,-1.366 l 23.8604,0 c 0.7551,0 1.3657,0.611 1.3657,1.366 0,0.752 -0.6106,1.362 -1.3657,1.362 l -0.34,0 0,12.273 0.34,0 c 0.3776,0 0.6833,0.306 0.6833,0.683 0,0.374 -0.3057,0.68 -0.6833,0.68 l -23.8604,0 c -0.3776,0 -0.6801,-0.306 -0.6801,-0.68 0,-0.377 0.3025,-0.683 0.6801,-0.683 l 0.34,0 0,-12.273 -0.34,0 z m 16.7025,0 4.0906,0 0,12.273 -4.0906,0 0,-12.273 z m -6.8164,0 4.0906,0 0,12.273 -4.0906,0 0,-12.273 z m -6.818,0 0,12.273 4.0898,0 0,-12.273 -4.0898,0 z m 22.498,-3.545 c 0.7543,0 1.3625,-0.611 1.3657,-1.365 0,-0.752 -0.6114,-1.363 -1.3657,-1.363 l -27.2718,0 c -0.7511,0 -1.3625,0.611 -1.3625,1.363 0,0.754 0.6114,1.365 1.3625,1.365 l 27.2718,0 z m -26.3427,19.01 c -0.5988,0 -1.1158,0.419 -1.2407,1.005 -0.128,0.584 0.174,1.18 0.7207,1.427 l 12.7089,5.718 c 0.331,0.149 0.7089,0.149 1.0399,0 l 12.6099,-5.675 c 0.4998,-0.171 0.8606,-0.645 0.8606,-1.202 0,-0.703 -0.5698,-1.273 -1.2727,-1.273 l -25.4266,0 z"
+         id="path994"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath998">
+      <path
+         d="m 0,0 1280,0 0,5616 L 0,5616 0,0 Z"
+         id="path1000"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.85722656"
+     inkscape:cx="-2.294658"
+     inkscape:cy="-20.028905"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11494">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-155.06636,-474.83361)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-728.68364,2602.3333)"
+       id="g988">
+      <g
+         id="g990"
+         clip-path="url(#clipPath992)">
+        <g
+           id="g996"
+           clip-path="url(#clipPath998)">
+          <path
+             d="m 702,1667 40,0 0,40 -40,0 0,-40 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path1002"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
